@@ -1,4 +1,10 @@
 # YouTube Ads Analytics Dashboard
+# YouTube Ads Analytics Dashboard
+
+🔗 [Live App (Streamlit)](https://youtube-ads-dashboard-e3z44vrffevrxrzjfdtgrd.streamlit.app/)
+
+A Streamlit-based dashboard to analyze YouTube ad campaign performance using CSV data.
+
 
 This is a simple and effective Streamlit-based dashboard that helps analyze YouTube advertising campaign performance. The tool is designed for marketers, analysts, or anyone looking to better understand the results of their ad campaigns using basic CSV data.
 
