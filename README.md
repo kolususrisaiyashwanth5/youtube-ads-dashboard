@@ -2,6 +2,7 @@
 # YouTube Ads Analytics Dashboard
 
 🔗 [Live App (Streamlit)](https://youtube-ads-dashboard-e3z44vrffevrxrzjfdtgrd.streamlit.app/)
+https://youtube-ads-dashboard-e3z44vrffevrxrzjfdtgrd.streamlit.app
 
 A Streamlit-based dashboard to analyze YouTube ad campaign performance using CSV data.
 
